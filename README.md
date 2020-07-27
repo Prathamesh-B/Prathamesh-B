@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hola, I'm Prathamesh 👋
 
-<!--
-**Prathamesh-B/Prathamesh-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
+  <br><br>
+  <samp>
+   A Student from India. I love Coding and Learning new thing about Programming and Computers.
+  </samp> 
+</p>
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻Languages
+
+<p>
+    <img src="https://img.shields.io/badge/python%20-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+</p>
+
+<br><br>
+
+## 🛠Tools
+<p>
+    <img src="https://img.shields.io/badge/VScode%20-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GitHub%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Prathamesh-B" alt="GitHub">
+</p>
+
+<br><br>
+## 💻Active Learning
