@@ -32,4 +32,4 @@
 
 <br>
 
-![Prathamesh's github status](https://github-readme-stats.vercel.app/api?username=Prathamesh-B&show_icon=true)
+![Prathamesh's github status](https://github-readme-stats.vercel.app/api?username=Prathamesh-B)
