@@ -35,4 +35,4 @@
 
 <br>
 
-![Prathamesh's github status](https://github-readme-stats.vercel.app/api?username=Prathamesh-B)
+![Prathamesh's github status](https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true)
