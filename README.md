@@ -1,10 +1,10 @@
 ### Hola, I'm Prathamesh 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="30px">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px">
   <br><br>
   <samp>
-   A Student from India. I love coding and learning new thing about programming and computers.
+   A Student from India. I love Coding and Learning new thing about Programming and Computers.
   </samp> 
 </p>
 
@@ -28,5 +28,8 @@
 </p>
 
 <br><br>
-
 ## 💻Active Learning
+
+<br>
+
+![Prathamesh's github status](https://github-readme-stats.vercel.app/api?username=Prathamesh-B&show_icon=true)
