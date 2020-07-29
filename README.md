@@ -52,11 +52,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
 </a>
 
-<br>
+<br><br>
 
-<p align="center"> 
-  Visitor count<br>
+<p align="right"> 
+  <strong>Visitor count:</strong><br>
   <a href="#">
-    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor">
+    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="190px">
   </a>
 </p>
