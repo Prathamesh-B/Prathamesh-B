@@ -45,10 +45,18 @@
 
 <br><br>
 
-## 💻Active Learning
+## 💻Active Learning:
 
 <br>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
 </a>
-  
+
+<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <a href="#">
+    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor">
+  </a>
+</p>
