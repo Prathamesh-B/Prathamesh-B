@@ -45,7 +45,7 @@
 
 <br><br>
 
-## 💻Active Learning:
+## 💻Active Learning.
 
 <br>
 <a href="#">
