@@ -57,6 +57,6 @@
 <p align="right"> 
   <strong>Visitor count:</strong><br>
   <a href="#">
-    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="190px">
+    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
   </a>
 </p>
