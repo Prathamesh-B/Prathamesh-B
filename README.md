@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
 </a>
 
-<br><br>
+<br><br> <hr>
 
 <p align="right"> 
   <strong>Visitor count:</strong><br>
