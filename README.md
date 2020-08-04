@@ -44,8 +44,14 @@
 </p>
 
 <br><br>
+**Quote of the hour:**
 
-## 💻Active Learning.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
+
+~ Linus Torvalds
+<pre>
+
+</pre>
 
 <br>
 <a href="#">
