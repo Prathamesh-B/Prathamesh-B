@@ -43,14 +43,8 @@
   </a>
 </p>
 
-<br><br><hr>
-**Quote of the hour:**
+<br><hr><br>
 
-We who cut mere stones must always be envisioning cathedrals.
-
-~ Quarry worker's creed
-<hr>
-<br>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
 </a>
