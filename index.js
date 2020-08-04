@@ -23,9 +23,6 @@ const readmeTemplate = (
     await fetch("https://programming-quotes-api.herokuapp.com/quotes/random")
   ).json();
 
-const readme=readmeTemplate
-    .replace("{qoth}", qoth)
-    .replace("{qoth_author}", qoth_author)
 
     await fs.writeFile("README.md", readme);
     
