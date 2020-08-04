@@ -43,8 +43,9 @@
   </a>
 </p>
 
-<br><br>
-####Quote of the hour:
+<br><br><hr>
+**Quote of the hour:**
+
 An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
 ~ Linus Torvalds

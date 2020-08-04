@@ -43,9 +43,9 @@
   </a>
 </p>
 
-<br><br>
+<br><br><hr>
 
-####Quote of the hour:
+**Quote of the hour:**
 
 {qoth}
 
