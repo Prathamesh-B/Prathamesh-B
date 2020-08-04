@@ -45,14 +45,11 @@
 
 <br><br>
 
-**Quote of the hour:**
+####Quote of the hour:
 
 {qoth}
 
 ~ {qoth_author}
-<pre>
-
-</pre>
 
 <br>
 <a href="#">
