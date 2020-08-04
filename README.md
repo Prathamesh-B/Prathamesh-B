@@ -50,6 +50,7 @@ An infinite number of monkeys typing into GNU Emacs would never make a good prog
 
 ~ Linus Torvalds
 
+<hr>
 <br>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
