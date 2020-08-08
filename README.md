@@ -1,5 +1,11 @@
 ## Hello, I'm Prathamesh <a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="33px"></a> 
 
+<style>
+  p {
+    text-decoration: none
+  }
+</style>
+
 <p align="center">
   <a href="#"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></a>
   <br><br>
@@ -39,7 +45,7 @@
     <img src="https://img.shields.io/badge/Git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;&nbsp;
   </a>
   <a href="https://github.com/Prathamesh-B">
-    <img src="https://img.shields.io/badge/GitHub%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
   </a>  
   <a href="#">
     <img src="https://img.shields.io/badge/Spotify%20-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
