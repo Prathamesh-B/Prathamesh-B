@@ -40,6 +40,9 @@
   </a>
   <a href="https://github.com/Prathamesh-B">
     <img src="https://img.shields.io/badge/GitHub%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Spotify%20-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
 </p>
 
