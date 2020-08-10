@@ -6,11 +6,7 @@
   <br><br>
   <samp>
   Student in India. I love Coding and Learning new thing about Programming and Computers.
-  </samp> 
-  <br><br>
-
-  <strong>Fun Quote: </strong><span>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nesciunt optio exercitationem veritatis nihil magni alias explicabo vel reiciendis, tempore, provident cum voluptatem quaerat?😉</span>
-</p>
+  </samp>
 
 <br><br>
 
@@ -80,7 +76,7 @@
     <img src="https://img.shields.io/badge/Kotlin%20-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;&nbsp;
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/React%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/React%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">&nbsp;&nbsp;
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/material_ui%20-0081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-ui">&nbsp;&nbsp;
