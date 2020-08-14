@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-If you think it's simple, then you have misunderstood the problem.
+The more code you have, the more places there are for bugs to hide.
 
-~ Bjarne Stroustrup
+~ Rich Skrenta
 
 <hr><br>
 
