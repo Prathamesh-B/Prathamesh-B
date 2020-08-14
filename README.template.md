@@ -92,11 +92,11 @@
 
 <hr><br>
 
+<details>
+  <summary>Some Statistics</summary><br/>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
-</a>
-
-<br><br>
+</a><br>
 
 <p align="right"> 
   <strong>Visitor count:</strong><br>
@@ -104,3 +104,6 @@
     <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
   </a>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
