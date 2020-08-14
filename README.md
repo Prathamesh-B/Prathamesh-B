@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-So much complexity in software comes from trying to make one thing do two things.
+Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
 
-~ Ryan Singer
+~ Ward Cunningham
 
 <hr><br>
 
