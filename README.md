@@ -86,9 +86,10 @@
 <br><hr>
 **Quote of the hour:**
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+If you cannot explain a program to yourself, the chance of the
+computer getting it right is pretty small.
 
-~ Gerald Weinberg
+~ Bob Frankston
 
 <hr><br>
 
