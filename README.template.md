@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Humanity is acquiring all the right technology for all the wrong reasons.
+{qoth}
 
-~ Buckminster Fuller
+~ {qoth_author}
 
 <hr><br>
 
