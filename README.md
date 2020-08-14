@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
+If you think it's simple, then you have misunderstood the problem.
 
-~ L. Peter Deutsch
+~ Bjarne Stroustrup
 
 <hr><br>
 
