@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.
+Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.
 
-~ Ward Cunningham
+~ L. Peter Deutsch
 
 <hr><br>
 
