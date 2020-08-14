@@ -86,7 +86,7 @@
 <br><hr>
 **Quote of the hour:**
 
-People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.
+We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
 
 ~ Donald Knuth
 
