@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Humanity is acquiring all the right technology for all the wrong reasons.
+An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
 
-~ Buckminster Fuller
+~ Bjarne Stroustrup
 
 <hr><br>
 
