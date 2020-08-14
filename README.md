@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-I think programming is very much a religious experience for a lot of people.
+So much complexity in software comes from trying to make one thing do two things.
 
-~ Gary Kildall
+~ Ryan Singer
 
 <hr><br>
 
