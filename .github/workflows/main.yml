@@ -26,7 +26,7 @@ jobs:
            git add .
            git config --global user.name "bot"
            git config --global user.email "bot@example.com"
-           git commit -m "[Magic] Automated Readme update"
+           git commit -m "Readme update"
         
       - name: Push
         uses: ad-m/github-push-action@master
