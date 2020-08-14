@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 
-~ Bjarne Stroustrup
+~ Gerald Weinberg
 
 <hr><br>
 
