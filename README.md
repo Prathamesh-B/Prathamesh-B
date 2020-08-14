@@ -86,10 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small.
+I think programming is very much a religious experience for a lot of people.
 
-~ Bob Frankston
+~ Gary Kildall
 
 <hr><br>
 
