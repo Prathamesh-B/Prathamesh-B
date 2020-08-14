@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Debugging is like being the detective in a crime movie where you are also the murderer.
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Filipe Fortes
+~ Steve Jobs
 
 <hr><br>
 
