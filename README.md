@@ -86,17 +86,17 @@
 <br><hr>
 **Quote of the hour:**
 
-Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
+Anybody who comes to you and says he has a perfect language is either naïve or a salesman.
 
-~ Richard Hamming
+~ Bjarne Stroustrup
 
 <hr><br>
 
+<details>
+  <summary>Some Statistics</summary><br/>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
-</a>
-
-<br><br>
+</a><br>
 
 <p align="right"> 
   <strong>Visitor count:</strong><br>
@@ -104,3 +104,6 @@ Any unwillingness to learn mathematics today can greatly restrict your possibili
     <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
   </a>
 </p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+</details>
