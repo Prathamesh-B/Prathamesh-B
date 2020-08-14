@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.
+Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow.
 
-~ Donald Knuth
+~ Richard Hamming
 
 <hr><br>
 
