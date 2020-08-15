@@ -99,33 +99,6 @@
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 63 Contributions in year 2020
- > 
-> 📦 Used 810 Bytes in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 3 Owned Private Repositories 
-
-**I mostly code in JavaScript** 
-
-```text
-JavaScript               6 repos             ██████████████████░░░░░░░   75.0% 
-CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
