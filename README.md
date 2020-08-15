@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.
+Good judgement comes from experience. Experience comes from bad judgement.
 
-~ Joe Armstrong (programmer)
+~ Jim Horning
 
 <hr><br>
 
