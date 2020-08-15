@@ -1,4 +1,4 @@
-name: Update README every hour
+name: Update README
 
 on: 
   workflow_dispatch:
