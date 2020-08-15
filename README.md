@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Gottfried Wilhelm Leibniz
+~ George Boole
 
 <hr><br>
 
