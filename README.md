@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 
-~ Fred Brooks
+~ John Warnock
 
 <hr><br>
 
