@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ John Warnock
+~ Gottfried Wilhelm Leibniz
 
 <hr><br>
 
