@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
 
-~ George Boole
+~ Bjarne Stroustrup
 
 <hr><br>
 
@@ -99,33 +99,6 @@ That language is an instrument of human reason, and not merely a medium for the 
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 67 Contributions in year 2020
- > 
-> 📦 Used 773 Bytes in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 2 Owned Private Repositories 
-
-**I mostly code in JavaScript** 
-
-```text
-JavaScript               5 repos             █████████████████░░░░░░░░   71.43% 
-CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
