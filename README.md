@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Thoroughly testing a program is impossible (requires unbounded number of test cases); so try to choose test cases that will expose all errors. That’s very difficult, especially since we do not know what all the errors are, and if we did, we would not need the test cases!
+Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.
 
-~ Daniel T. Barry
+~ Fred Brooks
 
 <hr><br>
 
