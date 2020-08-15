@@ -111,14 +111,6 @@ As numbers are reduced to the simplest principles, like 0 and 1, a wonderful ord
  > 
 > 🔑 3 Owned Private Repositories 
 
-📊 **This week I spent my time on** 
-
-```text
-💻 Operating Systems: 
-No Activity tracked this Week
-
-```
-
 **I mostly code in JavaScript** 
 
 ```text
@@ -136,10 +128,10 @@ Python                   1 repos             ███░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
+</details>
 <p align="right"> 
   <strong>Visitor count:</strong><br>
   <a href="#">
     <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
   </a>
 </p>
-</details>
