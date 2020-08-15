@@ -103,20 +103,20 @@ That language is an instrument of human reason, and not merely a medium for the 
 
 > 🏆 63 Contributions in year 2020
  > 
-> 📦 Used 810 Bytes in GitHub's Storage 
+> 📦 Used 759 Bytes in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 3 Owned Private Repositories 
+> 🔑 2 Owned Private Repositories 
 
 **I mostly code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ██████████████████░░░░░░░   75.0% 
-CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+JavaScript               5 repos             █████████████████░░░░░░░░   71.43% 
+CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
