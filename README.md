@@ -84,7 +84,7 @@
 </p>
 
 <br><hr>
-**Quote of the hour:**
+**Quote of the day:**
 
 As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
