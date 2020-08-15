@@ -99,6 +99,33 @@ C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you
 </a><br>
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 67 Contributions in year 2020
+ > 
+> 📦 Used 787 Bytes in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 1 Public Repository 
+ > 
+> 🔑 2 Owned Private Repositories 
+
+**I mostly code in JavaScript** 
+
+```text
+JavaScript               5 repos             █████████████████░░░░░░░░   71.43% 
+CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </details>
