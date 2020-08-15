@@ -98,12 +98,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
 </a><br>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="right"> 
   <strong>Visitor count:</strong><br>
   <a href="#">
     <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
   </a>
 </p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 </details>
