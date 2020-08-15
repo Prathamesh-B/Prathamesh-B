@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the hour:**
 
-Programming can be addictive.
+The best way to predict the future is to invent it.
 
-~ Bob Carr
+~ Alan Kay
 
 <hr><br>
 
@@ -105,76 +105,5 @@ Programming can be addictive.
   </a>
 </p>
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-247-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 78 Contributions in year 2020
- > 
-> 📦 Used 822 Bytes in GitHub's Storage 
- > 
-> 🚫 Not opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 2 Owned Private Repositories 
-
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25% 
-🌆 Daytime    55 commits     ███████████████░░░░░░░░░░   61.8% 
-🌃 Evening    28 commits     ███████░░░░░░░░░░░░░░░░░░   31.46% 
-🌙 Night      4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
-
-```
-📅 **I'm Most Productive on Fridays** 
-
-```text
-Monday       21 commits     ██████░░░░░░░░░░░░░░░░░░░   23.6% 
-Tuesday      18 commits     █████░░░░░░░░░░░░░░░░░░░░   20.22% 
-Wednesday    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
-Thursday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-Friday       26 commits     ███████░░░░░░░░░░░░░░░░░░   29.21% 
-Saturday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.87% 
-Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Kolkata
-
-💬 Languages: 
-No Activity tracked this Week
-
-🔥 Editors: 
-No Activity tracked this Week
-
-🐱‍💻 Projects: 
-No Activity tracked this Week
-
-💻 Operating Systems: 
-No Activity tracked this Week
-
-```
-
-**I mostly code in JavaScript** 
-
-```text
-JavaScript               6 repos             ██████████████████░░░░░░░   75.0% 
-CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 </details>
