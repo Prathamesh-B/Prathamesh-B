@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off.
+Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.
 
-~ Bjarne Stroustrup
+~ Laurence J. Peter
 
 <hr><br>
 
@@ -99,33 +99,6 @@ C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 68 Contributions in 2020
- > 
-> 📦 Used 800 Bytes in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 2 Owned Private Repositories 
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             █████████████████░░░░░░░░   71.43% 
-CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
