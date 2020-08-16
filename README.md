@@ -99,6 +99,33 @@ Some problems are so complex that you have to be highly intelligent and well inf
 </a><br>
 
 <!--START_SECTION:waka-->
+**🐱 My Github Data** 
+
+> 🏆 68 Contributions in the year 2020
+ > 
+> 📦 837 Bytes Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 1 Public repository 
+ > 
+> 🔑 2 Private repositories 
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               5 repos             █████████████████░░░░░░░░   71.43% 
+CSS                      1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 </details>
