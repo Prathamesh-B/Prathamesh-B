@@ -20,4 +20,5 @@ jobs:
           SHOW_LANGUAGE: "Flase"
           SHOW_TIMEZONE: "Flase"
           SHOW_OS: "Flase"
+          SHOW_DAYS_OF_WEEK: "True"
           SHOW_EDITORS: "Flase"
