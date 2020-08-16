@@ -101,17 +101,17 @@ C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 67 Contributions in year 2020
+> 🏆 68 Contributions in 2020
  > 
-> 📦 Used 787 Bytes in GitHub's Storage 
+> 📦 Used 800 Bytes in GitHub's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
 > 🔑 2 Owned Private Repositories 
 
-**I mostly code in JavaScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               5 repos             █████████████████░░░░░░░░   71.43% 
