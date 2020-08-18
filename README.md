@@ -161,12 +161,12 @@ Python                   1 repos             ███░░░░░░░░�
 <p align="right"> 
   <strong>Visitor count:</strong><br>
   <a href="#">
-    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Prathamesh" width="170px">
+    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
   </a>
 </p>
 <p align="left">
   <a href="#">
-    <img src="charts/Pratham-min.png" alt="Visitor" width="175px">
+    <img src="charts/Pratham-min.png" alt="Prathamesh" width="175px">
   </a>
 </p>
 </div>
