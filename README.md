@@ -64,7 +64,7 @@
     <img src="https://img.shields.io/badge/Mongo--DB%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;&nbsp;
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Windows%20-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+    <img src="https://img.shields.io/badge/PhotoShop%20-31A8FF.svg?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" alt="PhotoShop">
   </a>
 </p>
 
@@ -157,9 +157,16 @@ Python                   1 repos             ███░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+<div>
 <p align="right"> 
   <strong>Visitor count:</strong><br>
   <a href="#">
-    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
+    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Prathamesh" width="170px">
   </a>
 </p>
+<p align="left">
+  <a href="#">
+    <img src="charts/Pratham-min.png" alt="Visitor" width="175px">
+  </a>
+</p>
+</div>
