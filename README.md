@@ -101,15 +101,43 @@ The best way to know that you have found the last bug is never to find the first
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 68 Contributions in the year 2020
+> 🏆 69 Contributions in the year 2020
  > 
-> 📦 952 Bytes Used in Github's Storage 
+> 📦 955 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public repository 
  > 
 > 🔑 2 Private repositories 
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
+🌆 Daytime    67 commits     ███████████████████░░░░░░   76.14% 
+🌃 Evening    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.32% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       22 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Tuesday      19 commits     █████░░░░░░░░░░░░░░░░░░░░   21.59% 
+Wednesday    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Thursday     7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
+Friday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Saturday     15 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.05% 
+Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+
+```
+
+
+📊 **This Week I Spend My Time On** 
+
+```text
+```
 
 **I Mostly Code in JavaScript** 
 
