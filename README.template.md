@@ -111,7 +111,7 @@
 </p>
 <p align="left">
   <a href="#">
-    <img src="charts/Pratham-min.png" alt="Prathamesh" width="175px">
+    <img src="https://firebasestorage.googleapis.com/v0/b/awesome-d343d.appspot.com/o/Pratham-min.png?alt=media&token=b17594ec-2d80-4a37-92ce-9d9d10d976ea" alt="Prathamesh" width="175px">
   </a>
 </p>
 </div>
