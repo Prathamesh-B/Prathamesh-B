@@ -1,33 +1,31 @@
 name: Update README
 
-on: 
+on:
   workflow_dispatch:
   schedule:
-     - cron: "30 18 * * *"
+    - cron: "30 17 * * *"
 
 jobs:
-   stuff:
+  stuff:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+
       - name: Let the magic happen
         uses: actions/setup-node@v1
         with:
           node-version: 12.15.0
 
       - run: npm i
-      - run: node .   
-        
-            
+      - run: node .
 
       - name: Add to git repo
         run: |
-           git add .
-           git config --global user.name "bot"
-           git config --global user.email "bot@example.com"
-           git commit -m "Readme update"
-        
+          git add .
+          git config --global user.name "bot"
+          git config --global user.email "bot@example.com"
+          git commit -m "Readme update"
+
       - name: Push
         uses: ad-m/github-push-action@master
         with:
