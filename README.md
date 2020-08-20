@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.
+What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
 
-~ Edsger W. Dijkstra
+~ Steve Jobs
 
 <hr><br>
 
@@ -99,61 +99,6 @@ LISP has assisted a number of our most gifted fellow humans in thinking previous
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 74 Contributions in the year 2020
- > 
-> 📦 1.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public repository 
- > 
-> 🔑 2 Private repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-🌆 Daytime    71 commits     ██████████████████░░░░░░░   71.72% 
-🌃 Evening    23 commits     █████░░░░░░░░░░░░░░░░░░░░   23.23% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       22 commits     █████░░░░░░░░░░░░░░░░░░░░   22.22% 
-Tuesday      25 commits     ██████░░░░░░░░░░░░░░░░░░░   25.25% 
-Wednesday    15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Thursday     7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.07% 
-Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.04%
-
-```
-
-
-📊 **This Week I Spend My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████████████░░░░░░░░░   66.67% 
-CSS                      1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Python                   1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
