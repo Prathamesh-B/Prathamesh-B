@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.
+A computational process is indeed much like a sorcerer's idea of a spirit. It cannot be seen or touched. It is not composed of matter at all. However, it is very real. It can perform intellectual work. It can answer questions. It can affect the world by disbursing money at a bank or by controlling a robot arm in a factory.
 
-~ Steve Jobs
+~ Hal Abelson
 
 <hr><br>
 
@@ -99,61 +99,6 @@ What a computer is to me is it's the most remarkable tool that we have ever come
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 78 Contributions in the Year 2020
- > 
-> 📦 1.0 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 2 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.9% 
-🌆 Daytime    73 commits     █████████████████░░░░░░░░   69.52% 
-🌃 Evening    27 commits     ██████░░░░░░░░░░░░░░░░░░░   25.71% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       22 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
-Tuesday      25 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Wednesday    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Friday       11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
-Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.81%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████████████░░░░░░░░░   66.67% 
-CSS                      1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Python                   1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
