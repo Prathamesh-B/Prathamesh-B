@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-Within C++, there is a much smaller and cleaner language struggling to get out.
+Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
 
-~ Bjarne Stroustrup
+~ Wayne Ratliff
 
 <hr><br>
 
@@ -99,61 +99,6 @@ Within C++, there is a much smaller and cleaner language struggling to get out.
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 78 Contributions in the Year 2020
- > 
-> 📦 1.1 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 2 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-🌆 Daytime    73 commits     █████████████████░░░░░░░░   68.87% 
-🌃 Evening    28 commits     ██████░░░░░░░░░░░░░░░░░░░   26.42% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.83%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       22 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75% 
-Tuesday      25 commits     ██████░░░░░░░░░░░░░░░░░░░   23.58% 
-Wednesday    17 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.04% 
-Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.38% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
-Saturday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
-Sunday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.77%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████████████░░░░░░░░░   66.67% 
-CSS                      1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Python                   1 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
