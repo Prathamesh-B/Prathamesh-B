@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.
+If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes.
 
-~ Wayne Ratliff
+~ Bill Gates
 
 <hr><br>
 
@@ -99,61 +99,6 @@ Programming is a little bit like the army. Now that I'm out, it's neat to have h
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 80 Contributions in the Year 2020
- > 
-> 📦 1.2 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories
- > 
-> 🔑 3 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.79% 
-🌆 Daytime    74 commits     ████████████████░░░░░░░░░   66.07% 
-🌃 Evening    33 commits     ███████░░░░░░░░░░░░░░░░░░   29.46% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.68%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       22 commits     █████░░░░░░░░░░░░░░░░░░░░   19.64% 
-Tuesday      25 commits     █████░░░░░░░░░░░░░░░░░░░░   22.32% 
-Wednesday    17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Saturday     16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
