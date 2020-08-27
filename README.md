@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-Ideas don't disappear. They change form, they merge with other ideas.
+Low-level programming is good for the programmer’s soul.
 
-~ Bob Frankston
+~ John Carmack
 
 <hr><br>
 
@@ -99,61 +99,6 @@ Ideas don't disappear. They change form, they merge with other ideas.
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 79 Contributions in the Year 2020
- > 
-> 📦 1.4 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.69% 
-🌆 Daytime    77 commits     ████████████████░░░░░░░░░   65.25% 
-🌃 Evening    36 commits     ███████░░░░░░░░░░░░░░░░░░   30.51% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     █████░░░░░░░░░░░░░░░░░░░░   21.19% 
-Tuesday      26 commits     █████░░░░░░░░░░░░░░░░░░░░   22.03% 
-Wednesday    19 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
-Thursday     11 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32% 
-Friday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-Saturday     16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.63%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               4 repos             ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Python                   2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
