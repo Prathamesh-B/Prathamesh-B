@@ -23,7 +23,7 @@ jobs:
         run: |
           git add .
           git config --global user.name "bot"
-          git config --global user.email "bot@example.com"
+          git config --global user.email "bot85@example.com"
           git commit -m "Readme update"
 
       - name: Push
