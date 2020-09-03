@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.
+One man's constant is another man's variable.
 
-~ Bjarne Stroustrup
+~ Alan Perlis
 
 <hr><br>
 
@@ -99,61 +99,6 @@ An organisation that treats its programmers as morons will soon have programmers
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 81 Contributions in the Year 2020
- > 
-> 📦 1.4 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
-🌆 Daytime    81 commits     ███████████████░░░░░░░░░░   62.79% 
-🌃 Evening    43 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
-Tuesday      26 commits     █████░░░░░░░░░░░░░░░░░░░░   20.16% 
-Wednesday    20 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.5% 
-Thursday     15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
-Saturday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
