@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-One man's constant is another man's variable.
+On two occasions I have been asked [by members of Parliament]: "Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?" I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.
 
-~ Alan Perlis
+~ Charles Babbage
 
 <hr><br>
 
@@ -99,61 +99,6 @@ One man's constant is another man's variable.
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 81 Contributions in the Year 2020
- > 
-> 📦 1.4 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
-🌆 Daytime    82 commits     ███████████████░░░░░░░░░░   62.12% 
-🌃 Evening    45 commits     ████████░░░░░░░░░░░░░░░░░   34.09% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.94% 
-Tuesday      26 commits     █████░░░░░░░░░░░░░░░░░░░░   19.7% 
-Wednesday    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Thursday     17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-Saturday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
