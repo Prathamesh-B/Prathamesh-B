@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.
+The cost to repair an error goes up dramatically as project moves towards completion and beyond.
 
-~ Alan Perlis
+~ Daniel T. Barry
 
 <hr><br>
 
@@ -99,61 +99,6 @@ Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remo
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 81 Contributions in the Year 2020
- > 
-> 📦 1.4 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-🌆 Daytime    83 commits     ███████████████░░░░░░░░░░   61.94% 
-🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   34.33% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.66% 
-Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
-Wednesday    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
-Friday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.45% 
-Saturday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.72%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
