@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 
-~ Bill Gates
+~ Danny Hillis
 
 <hr><br>
 
@@ -99,61 +99,6 @@ We're no longer in the days where everything is super well crafted. But at the h
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 81 Contributions in the Year 2020
- > 
-> 📦 1.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.48% 
-🌆 Daytime    84 commits     ███████████████░░░░░░░░░░   62.22% 
-🌃 Evening    46 commits     ████████░░░░░░░░░░░░░░░░░   34.07% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.22%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
-Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
-Thursday     18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Friday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-Saturday     21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
