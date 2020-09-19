@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-A number of studies have shown testing not very effective at finding bugs.
+The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
 
-~ Daniel T. Barry
+~ Grady Booch
 
 <hr><br>
 
@@ -99,61 +99,6 @@ A number of studies have shown testing not very effective at finding bugs.
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 81 Contributions in the Year 2020
- > 
-> 📦 1.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-🌆 Daytime    85 commits     ███████████████░░░░░░░░░░   61.15% 
-🌃 Evening    48 commits     ████████░░░░░░░░░░░░░░░░░   34.53% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.99% 
-Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
-Thursday     20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
-Friday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.51% 
-Saturday     21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.47%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
