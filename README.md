@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.
+Lisp is worth learning for the profound enlightenment experience you will have when you finally get it; that experience will make you a better programmer for the rest of your days, even if you never actually use Lisp itself a lot.
 
-~ Grady Booch
+~ Eric S. Raymond
 
 <hr><br>
 
@@ -99,61 +99,6 @@ The amateur software engineer is always in search of magic, some sensational met
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 82 Contributions in the Year 2020
- > 
-> 📦 1.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-🌆 Daytime    86 commits     ███████████████░░░░░░░░░░   60.99% 
-🌃 Evening    48 commits     ████████░░░░░░░░░░░░░░░░░   34.04% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
-Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Thursday     20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.35% 
-Saturday     23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
