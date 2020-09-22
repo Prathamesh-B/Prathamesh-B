@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-C is quirky, flawed, and an enormous success.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Dennis Ritchie
+~ Douglas Crockford
 
 <hr><br>
 
@@ -99,61 +99,6 @@ C is quirky, flawed, and an enormous success.
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 82 Contributions in the Year 2020
- > 
-> 📦 1.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-🌆 Daytime    86 commits     ███████████████░░░░░░░░░░   60.99% 
-🌃 Evening    48 commits     ████████░░░░░░░░░░░░░░░░░   34.04% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
-Tuesday      26 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.44% 
-Wednesday    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Thursday     20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.35% 
-Saturday     23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.31% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.38%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
