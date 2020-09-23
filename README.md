@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+When I was at what I would consider the peak of my abilities, I had extremely trustworthy intuition. I would do things and they would just turn out right.
 
-~ Douglas Crockford
+~ L. Peter Deutsch
 
 <hr><br>
 
@@ -99,61 +99,6 @@ In JavaScript, there is a beautiful, elegant, highly expressive language that is
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 82 Contributions in the Year 2020
- > 
-> 📦 1.5 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.82% 
-🌆 Daytime    87 commits     ███████████████░░░░░░░░░░   61.27% 
-🌃 Evening    48 commits     ████████░░░░░░░░░░░░░░░░░   33.8% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.61% 
-Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-Wednesday    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
-Thursday     20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
-Saturday     23 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.2% 
-Sunday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.34%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
