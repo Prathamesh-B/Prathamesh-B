@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-I always spend a day a week learning new stuff. That means I spend 20% more of my time than my colleagues learning new stuff. Now 20% at compound interest means that after four and a half years I will know twice as much as them.
+The most important single aspect of software development is to be clear about what you are trying to build.
 
-~ Richard Hamming
+~ Bjarne Stroustrup
 
 <hr><br>
 
