@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-The most important single aspect of software development is to be clear about what you are trying to build.
+The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
 
-~ Bjarne Stroustrup
+~ Charles Simonyi
 
 <hr><br>
 
