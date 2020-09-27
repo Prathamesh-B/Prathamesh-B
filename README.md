@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.
+Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
 
-~ Charles Simonyi
+~ Harlan Mills
 
 <hr><br>
 
