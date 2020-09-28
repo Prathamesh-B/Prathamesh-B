@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.
+I don't comment on the code itself because I feel that properly written code is very much self-documented.
 
-~ Harlan Mills
+~ Gary Kildall
 
 <hr><br>
 
