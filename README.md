@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-I don't comment on the code itself because I feel that properly written code is very much self-documented.
+That hardly ever happens is another way of saying 'it happens'.
 
-~ Gary Kildall
+~ Douglas Crockford
 
 <hr><br>
 
