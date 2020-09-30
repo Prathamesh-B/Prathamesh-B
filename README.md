@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-That hardly ever happens is another way of saying 'it happens'.
+The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
 
-~ Douglas Crockford
+~ Edsger W. Dijkstra
 
 <hr><br>
 
