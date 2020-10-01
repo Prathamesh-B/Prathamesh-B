@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.
+Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.
 
-~ Edsger W. Dijkstra
+~ Dennis Ritchie
 
 <hr><br>
 
@@ -99,61 +99,6 @@ The effective exploitation of his powers of abstraction must be regarded as one 
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 83 Contributions in the Year 2020
- > 
-> 📦 7.7 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
-🌆 Daytime    93 commits     ███████████████░░░░░░░░░░   62.42% 
-🌃 Evening    48 commits     ████████░░░░░░░░░░░░░░░░░   32.21% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
-Wednesday    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.77% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
-Friday       18 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.08% 
-Saturday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.11% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
