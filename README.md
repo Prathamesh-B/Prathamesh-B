@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.
+The first false assumption that underlies the scheduling of systems programming is that all will go well, i.e., that each task will hike only as long as it "ought" to take. A large programming effort, however, consists of many tasks, some chained end-to-end. The probability that each will go well becomes vanishingly small.
 
-~ Marijn Haverbeke
+~ Fred Brooks
 
 <hr><br>
 
@@ -99,61 +99,6 @@ Flaws in computer programs are usually called bugs. It makes programmers feel go
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 83 Contributions in the Year 2020
- > 
-> 📦 12.2 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.31% 
-🌆 Daytime    93 commits     ███████████████░░░░░░░░░░   61.59% 
-🌃 Evening    50 commits     ████████░░░░░░░░░░░░░░░░░   33.11% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
-Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
-Wednesday    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
-Friday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.25% 
-Saturday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
