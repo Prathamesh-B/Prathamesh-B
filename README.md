@@ -86,9 +86,9 @@
 <br><hr>
 **Quote of the day:**
 
-JavaScript is the world's most misunderstood programming language.
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 
-~ Douglas Crockford
+~ David Gelernter
 
 <hr><br>
 
@@ -99,61 +99,6 @@ JavaScript is the world's most misunderstood programming language.
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 83 Contributions in the Year 2020
- > 
-> 📦 12.3 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
-🌆 Daytime    93 commits     ███████████████░░░░░░░░░░   61.18% 
-🌃 Evening    51 commits     ████████░░░░░░░░░░░░░░░░░   33.55% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.45% 
-Tuesday      28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
-Wednesday    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
-Friday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
-Saturday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.58%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
