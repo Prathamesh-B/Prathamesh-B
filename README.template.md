@@ -78,9 +78,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/React%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">&nbsp;&nbsp;
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/material_ui%20-0081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-ui">&nbsp;&nbsp;
-  </a>
 </p>
 
 <br><hr>
