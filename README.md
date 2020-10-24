@@ -78,17 +78,14 @@
   <a href="#">
     <img src="https://img.shields.io/badge/React%20-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React">&nbsp;&nbsp;
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/material_ui%20-0081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-ui">&nbsp;&nbsp;
-  </a>
 </p>
 
 <br><hr>
 **Quote of the day:**
 
-Mathematics is important in programming, but it’s just one of a lot of things that are important. If you overemphasize the math then you underemphasize stuff which might be even more important, such as literacy.
+I think the best way to supervise is by personal example and by frequent code reviews.
 
-~ Douglas Crockford
+~ Charles Simonyi
 
 <hr><br>
 
@@ -99,61 +96,6 @@ Mathematics is important in programming, but it’s just one of a lot of things 
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 85 Contributions in the Year 2020
- > 
-> 📦 12.4 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-🌆 Daytime    93 commits     ███████████████░░░░░░░░░░   60.78% 
-🌃 Evening    51 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.34% 
-Tuesday      28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.3% 
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-Friday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.07% 
-Saturday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.54%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
