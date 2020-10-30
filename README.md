@@ -83,9 +83,9 @@
 <br><hr>
 **Quote of the day:**
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ John Warnock
+~ Robert C. Martin
 
 <hr><br>
 
@@ -96,61 +96,6 @@ Don’t go into a two-year development with nothing coming out in the middle. Ha
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
-
-> 🏆 87 Contributions in the Year 2020
- > 
-> 📦 12.3 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 1 Public Repository 
- > 
-> 🔑 4 Private Repositories 
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.87% 
-🌆 Daytime    95 commits     ███████████████░░░░░░░░░░   61.29% 
-🌃 Evening    51 commits     ████████░░░░░░░░░░░░░░░░░   32.9% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       25 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
-Tuesday      28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.06% 
-Wednesday    23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-Thursday     23 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
-Friday       20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
-Saturday     26 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               3 repos             ██████████░░░░░░░░░░░░░░░   42.86% 
-CSS                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://github.com/Prathamesh-B/Prathamesh-B/blob/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 </details>
