@@ -98,8 +98,6 @@ I think you should always bear in mind that entropy is not on your side.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 90 Contributions in the Year 2020
- > 
 > 📦 12.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
