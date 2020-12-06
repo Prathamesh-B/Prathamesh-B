@@ -104,9 +104,9 @@ I think you should always bear in mind that entropy is not on your side.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 1 Public Repository 
+1 Public Repository 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 4 Private Repositories  
 
 **I'm an Early 🐤** 
 
