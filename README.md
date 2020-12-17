@@ -100,7 +100,7 @@ I think you should always bear in mind that entropy is not on your side.
 
 > 🏆 96 Contributions in the Year 2020
  > 
-> 📦 12.3 kB Used in Github's Storage 
+> 📦 12.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
