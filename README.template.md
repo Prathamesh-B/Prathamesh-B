@@ -81,13 +81,6 @@
 </p>
 
 <br><hr>
-**Quote of the day:**
-
-{qoth}
-
-~ {qoth_author}
-
-<hr><br>
 
 <details>
   <summary>Some Statistics</summary><br/>
