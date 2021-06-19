@@ -93,7 +93,7 @@
 
 > 🏆 8 Contributions in the Year 2021
  > 
-> 📦 15.0 kB Used in Github's Storage 
+> 📦 15.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -144,7 +144,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2021
+ Last Updated on 19/06/2021
 <!--END_SECTION:waka-->
 
 </details>
