@@ -1,5 +1,4 @@
-## Hello, I'm Prathamesh <a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="33px"></a> 
-
+## Hello, I'm Prathamesh <a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="33px"></a>
 
 <p align="center">
   <a href="http://tiny.cc/parg"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></a>
@@ -47,18 +46,12 @@
   </a>
   <a href="https://github.com/Prathamesh-B">
     <img src="https://img.shields.io/badge/GitHub%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;&nbsp;
-  </a>  
-  <a href="#">
-    <img src="https://img.shields.io/badge/Spotify%20-1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">&nbsp;&nbsp;
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Node.Js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">&nbsp;&nbsp;
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/IFTTT%20-000000.svg?&style=for-the-badge&logo=ifttt&logoColor=white" alt="IFTTT">&nbsp;&nbsp;
-  </a>
-  <a href="https://stackoverflow.com/users/13968370/pratham">
-    <img src="https://img.shields.io/badge/Stack_OverFlow%20-FE7A16.svg?&style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack_OverFlow">&nbsp;&nbsp;
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Mongo--DB%20-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">&nbsp;&nbsp;
@@ -71,6 +64,7 @@
 <br><br>
 
 ## 📚 Learning:
+
 <p>
   <a href="#">
     <img src="https://img.shields.io/badge/Kotlin%20-0095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;&nbsp;
@@ -89,62 +83,63 @@
 </a><br>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+
+**🐱 My GitHub Data**
 
 > 🏆 44 Contributions in the Year 2021
- > 
-> 📦 38.2 kB Used in GitHub's Storage 
- > 
+>
+> 📦 38.2 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 3 Public Repositories
+>
+> 🔑 5 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-🌆 Daytime    36 commits     ██████████████░░░░░░░░░░░   59.02% 
-🌃 Evening    17 commits     ███████░░░░░░░░░░░░░░░░░░   27.87% 
+🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
+🌆 Daytime    36 commits     ██████████████░░░░░░░░░░░   59.02%
+🌃 Evening    17 commits     ███████░░░░░░░░░░░░░░░░░░   27.87%
 🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       19 commits     ███████░░░░░░░░░░░░░░░░░░   31.15% 
-Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-Wednesday    12 commits     █████░░░░░░░░░░░░░░░░░░░░   19.67% 
-Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
-Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.84% 
-Saturday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.75% 
+Monday       19 commits     ███████░░░░░░░░░░░░░░░░░░   31.15%
+Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.92%
+Wednesday    12 commits     █████░░░░░░░░░░░░░░░░░░░░   19.67%
+Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.56%
+Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.84%
+Saturday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.75%
 Sunday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.11%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
+
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   5 repos             █████████████████░░░░░░░░   71.43% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   5 repos             █████████████████░░░░░░░░   71.43%
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png)
 
+Last Updated on 02/11/2021
 
- Last Updated on 02/11/2021
 <!--END_SECTION:waka-->
 
 </details>
