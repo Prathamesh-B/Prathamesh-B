@@ -17,7 +17,6 @@ jobs:
           SHOW_LINES_OF_CODE: "Flase"
           SHOW_PROJECTS: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_LANGUAGE: "Flase"
           SHOW_TIMEZONE: "Flase"
           SHOW_OS: "Flase"
           SHOW_EDITORS: "Flase"
