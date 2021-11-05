@@ -1,7 +1,7 @@
 ## Hello, I'm Prathamesh <a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="33px"></a>
 
 <p align="center">
-  <a href="http://tiny.cc/parg"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></a>
+  <a href="https://bit.ly/p-arg"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></a>
   <br><br>
   <samp>
   Student in India. I love Coding and Learning new things about Programming and Computers.
@@ -95,70 +95,72 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
 </a><br>
 
+<!--START_SECTION:Chess-->
+<!--END_SECTION:Chess-->
+
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 47 Contributions in the Year 2021
- > 
-> 📦 38.2 kB Used in GitHub's Storage 
- > 
+>
+> 📦 38.2 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 5 Private Repositories  
- > 
-**I'm an Early 🐤** 
+>
+> 📜 3 Public Repositories
+>
+> 🔑 5 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.81% 
-🌆 Daytime    39 commits     ███████████████░░░░░░░░░░   60.94% 
-🌃 Evening    17 commits     ██████░░░░░░░░░░░░░░░░░░░   26.56% 
+🌞 Morning    5 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
+🌆 Daytime    39 commits     ███████████████░░░░░░░░░░   60.94%
+🌃 Evening    17 commits     ██████░░░░░░░░░░░░░░░░░░░   26.56%
 🌙 Night      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       19 commits     ███████░░░░░░░░░░░░░░░░░░   29.69% 
-Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-Wednesday    15 commits     █████░░░░░░░░░░░░░░░░░░░░   23.44% 
-Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25% 
-Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Saturday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.06% 
+Monday       19 commits     ███████░░░░░░░░░░░░░░░░░░   29.69%
+Tuesday      3 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
+Wednesday    15 commits     █████░░░░░░░░░░░░░░░░░░░░   23.44%
+Thursday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.25%
+Friday       6 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
+Saturday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.06%
 Sunday       8 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Other                    7 hrs 19 mins       █████████████████████░░░░   84.12% 
-JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
-Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73% 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47% 
+💬 Programming Languages:
+Other                    7 hrs 19 mins       █████████████████████░░░░   84.12%
+JavaScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.14%
+Python                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.47%
 HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.57%
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in Python**
 
 ```text
-Python                   5 repos             █████████████████░░░░░░░░   71.43% 
-JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+Python                   5 repos             █████████████████░░░░░░░░   71.43%
+JavaScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png)
 
+Last Updated on 04/11/2021
 
- Last Updated on 04/11/2021
 <!--END_SECTION:waka-->
 
 </details>
