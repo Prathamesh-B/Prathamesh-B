@@ -98,11 +98,11 @@
 <!--START_SECTION:Chess-->
 **♟️ My Chess.com Stats** 
 
-> ⏲️ Rapid: 878
+> ⏲️ Rapid: 930
  > 
-> ⚡ Blitz: 465
+> ⚡ Blitz: 1052
  > 
-> 💣 Bullet: 937
+> 💣 Bullet: 962
  > 
 
 <!--END_SECTION:Chess-->
