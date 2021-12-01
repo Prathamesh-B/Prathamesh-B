@@ -13,4 +13,4 @@ jobs:
       - uses: Prathamesh-B/chess-stats-readme@master
         with:
           CHESS_USERNAME: PrathamRex
-          RATING_TYPE : best
+          RATING_TYPE : 'best'
