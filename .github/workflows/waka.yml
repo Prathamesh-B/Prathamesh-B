@@ -20,4 +20,3 @@ jobs:
           SHOW_TIMEZONE: "Flase"
           SHOW_OS: "Flase"
           SHOW_EDITORS: "Flase"
-          SHOW_TOTAL_CODE_TIME: "Flase"
