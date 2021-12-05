@@ -99,11 +99,11 @@
 **♟️ My Chess.com Stats** 
 
 > ⏲️ Rapid: 878
- > 
+>
 > ⚡ Blitz: 465
- > 
+>
 > 💣 Bullet: 937
- > 
+>
 
 <!--END_SECTION:Chess-->
 
