@@ -112,7 +112,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 52.7 kB Used in GitHub's Storage 
+> 📦 52.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -172,7 +172,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png) 
 
 
- Last Updated on 02/01/2022
+ Last Updated on 03/01/2022
 <!--END_SECTION:waka-->
 
 </details>
