@@ -147,7 +147,7 @@ Sunday       24 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 22 mins       █████████████████████████   100.0%
+Other                    4 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -168,7 +168,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
 
 </details>
