@@ -1,4 +1,4 @@
-## Hello, I'm Prathamesh <a href="#"><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="33px"></a>
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Prathamesh%20Bhalekar&fontSize=70&animation=fadeIn&fontAlignY=36&desc=coder,%20college%20student&descAlignY=51&descAlign=80)](#)
 
 <p align="center">
   <a href="https://bit.ly/p-arg"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="50px"></a>
@@ -6,7 +6,7 @@
   <samp>
   Student in India. I love Coding and Learning new things about Programming and Computers.
   </samp>
-
+</p>
 <br><br>
 
 ## 👨‍💻Skills:
