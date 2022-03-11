@@ -87,10 +87,12 @@
   
 </p>
 
-<hr><br>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=1)
+
+<br>
 
 <details>
-  <summary>📊 Some Statistics</summary><br/>
+  <summary><h2>📊 Some Statistics</h2></summary><br/>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true" alt="status">
 </a><br>
@@ -172,18 +174,12 @@ C                        1 repo              ██░░░░░░░░░�
 
  Last Updated on 08/03/2022 18:44:13 UTC
 <!--END_SECTION:waka-->
-
 </details>
-<div>
 <p align="right"> 
   <strong>Visitor count:</strong><br>
   <a href="#">
     <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
   </a>
 </p>
-<p align="left">
-  <a href="#">
-    <img src="https://firebasestorage.googleapis.com/v0/b/awesome-d343d.appspot.com/o/Pratham-min.png?alt=media&token=b17594ec-2d80-4a37-92ce-9d9d10d976ea" alt="Prathamesh" width="175px">
-  </a>
-</p>
-</div>
+
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=80&section=footer)](#)
