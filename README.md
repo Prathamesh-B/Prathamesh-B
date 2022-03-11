@@ -9,6 +9,8 @@
 </p>
 <br>
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=1)
+
 ## 👨‍💻Skills:
 
 <p> 
