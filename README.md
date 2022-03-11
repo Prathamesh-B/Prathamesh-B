@@ -7,7 +7,7 @@
   Student in India. I love Coding and Learning new things about Programming and Computers.
   </samp>
 </p>
-<br><br>
+<br>
 
 ## 👨‍💻Skills:
 
@@ -41,8 +41,7 @@
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Django">
   </a>
 </p>
-
-<br><br>
+<br>
 
 ## 🛠Tools & Technologies:
 
@@ -72,8 +71,7 @@
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="PhotoShop">
   </a>
 </p>
-
-<br><br>
+<br>
 
 ## 📚 Learning:
 
@@ -84,11 +82,9 @@
   <a href="#">
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">&nbsp;&nbsp;
   </a>
-  
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=1)
-
 <br>
 
 <details>
