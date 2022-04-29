@@ -101,10 +101,7 @@ Sunday       30 commits     ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 25 mins       ████████████████░░░░░░░░░   65.08% 
-TypeScript               2 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   34.77% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+No Activity Tracked This Week
 
 ```
 
@@ -125,7 +122,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/04/2022 18:45:07 UTC
+ Last Updated on 29/04/2022 18:49:45 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
