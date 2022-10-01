@@ -52,7 +52,7 @@
 <!--START_SECTION:Chess-->
 **♟️ My Chess.com Stats** 
 
-> ⏲️ Rapid: 955
+> ⏲️ Rapid: 936
 >
 > ⚡ Blitz: 465
 >
