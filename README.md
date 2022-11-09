@@ -66,7 +66,7 @@
 
 > 🏆 70 Contributions in the Year 2022
  > 
-> 📦 104.8 kB Used in GitHub's Storage 
+> 📦 104.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,37 +74,6 @@
  > 
 > 🔑 7 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    31 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.03% 
-🌆 Daytime    116 commits    █████████████░░░░░░░░░░░░   52.49% 
-🌃 Evening    60 commits     ██████░░░░░░░░░░░░░░░░░░░   27.15% 
-🌙 Night      14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.33%
-
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday       27 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
-Tuesday      20 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-Wednesday    33 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
-Thursday     23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
-Friday       55 commits     ██████░░░░░░░░░░░░░░░░░░░   24.89% 
-Saturday     34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Sunday       29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -122,7 +91,7 @@ C                        1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/11/2022 18:58:30 UTC
+ Last Updated on 09/11/2022 18:47:31 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
