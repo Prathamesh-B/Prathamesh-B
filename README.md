@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 105.0 kB Used in GitHub's Storage 
+> 📦 104.9 kB Used in GitHub's Storage 
  > 
 > 🏆 0 Contributions in the Year 2023
  > 
@@ -119,7 +119,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2023 18:37:14 UTC
+ Last Updated on 06/03/2023 18:41:00 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
