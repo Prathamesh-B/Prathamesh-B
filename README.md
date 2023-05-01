@@ -99,7 +99,7 @@ Sunday                   31 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 28 mins      █████████████████████████   100.00 % 
+Other                    9 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2023 18:35:46 UTC
+ Last Updated on 01/05/2023 18:34:43 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
