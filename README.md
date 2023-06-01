@@ -120,7 +120,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 31/05/2023 18:34:56 UTC
+ Last Updated on 01/06/2023 18:35:17 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
