@@ -66,13 +66,13 @@
 
 > 📦 113.1 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2023
+> 🏆 8 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
  > 
-> 🔑 7 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -99,8 +99,8 @@ Sunday                   31 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 33 mins       █████████████████████████   99.91 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    4 hrs 59 mins       █████████████████████████   99.86 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +120,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2023 18:34:47 UTC
+ Last Updated on 05/06/2023 18:34:59 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
