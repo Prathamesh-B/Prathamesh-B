@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 113.0 kB Used in GitHub's Storage 
+> 📦 113.1 kB Used in GitHub's Storage 
  > 
 > 🏆 7 Contributions in the Year 2023
  > 
@@ -99,7 +99,7 @@ Sunday                   31 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 mins             █████████████████████████   100.00 % 
+Other                    21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2023 18:34:46 UTC
+ Last Updated on 17/06/2023 18:34:36 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
