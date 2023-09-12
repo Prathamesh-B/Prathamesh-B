@@ -99,7 +99,11 @@ Sunday                   31 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               16 mins             ██████████░░░░░░░░░░░░░░░   40.89 % 
+JavaScript               10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+JSON                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+CSS                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Assembly                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +123,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2023 18:35:34 UTC
+ Last Updated on 12/09/2023 18:35:09 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
