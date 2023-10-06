@@ -10,6 +10,7 @@ jobs:
     name: Update readme with chess stats
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - uses: Prathamesh-B/chess-stats-readme@master
         with:
           CHESS_USERNAME: PrathamRex
