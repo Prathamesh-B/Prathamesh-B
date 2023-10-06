@@ -13,4 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: Prathamesh-B/chess-stats-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CHESS_USERNAME: PrathamRex
