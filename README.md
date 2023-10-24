@@ -66,8 +66,6 @@
 
 > 📦 140.2 kB Used in GitHub's Storage 
  > 
-> 🏆 42 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -99,7 +97,7 @@ Sunday                   31 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +117,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2023 18:35:46 UTC
+ Last Updated on 24/10/2023 18:36:25 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
