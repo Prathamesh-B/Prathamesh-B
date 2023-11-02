@@ -2,9 +2,9 @@ name: Chess Stats Readme
 
 on:
   workflow_dispatch:
-  schedule:
+  #schedule:
     # Runs at 12am IST
-    - cron: "20 18 * * *"
+    #- cron: "20 18 * * *"
 jobs:
   update-readme:
     name: Update readme with chess stats
