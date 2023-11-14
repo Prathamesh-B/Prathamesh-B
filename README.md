@@ -66,11 +66,11 @@
 
 > 📦 142.0 kB Used in GitHub's Storage 
  > 
-> 🏆 68 Contributions in the Year 2023
+> 🏆 69 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -99,9 +99,9 @@ Sunday                   36 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               7 hrs 16 mins       ████████████████████████░   97.72 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+JavaScript               3 hrs 44 mins       ████████████████████████░   96.51 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2023 18:35:50 UTC
+ Last Updated on 14/11/2023 18:34:47 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
