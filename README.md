@@ -99,7 +99,7 @@ Sunday                   36 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2023 18:35:21 UTC
+ Last Updated on 23/11/2023 18:35:27 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
