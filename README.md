@@ -66,6 +66,8 @@
 
 > 📦 142.1 kB Used in GitHub's Storage 
  > 
+> 🏆 71 Contributions in the Year 2023
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -117,7 +119,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
 
 
- Last Updated on 14/12/2023 18:36:40 UTC
+ Last Updated on 15/12/2023 18:36:14 UTC
 <!--END_SECTION:waka-->
 </details>
 <p align="right"> 
