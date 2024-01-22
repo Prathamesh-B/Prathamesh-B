@@ -1,6 +1,8 @@
+<div align="center">
+
 [![header](./assets/svg/header.svg)](https://prathamesh-b.github.io/)
 
-<img align="right" alt="Coding" width="300px" src="./assets/work-office.gif">
+<img align="right" alt="Coding" width="230" src="./assets/work-office.gif">
 
 <div align="left">
   <p align="center">
@@ -17,8 +19,6 @@
     <a href="https://www.leetcode.com/pratham17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratham17" height="30" width="40" /></a>
   </p>
 </div>
-
-<div align="center">
 
 [![hr](./assets/svg/hr.svg)](#skills)
 
