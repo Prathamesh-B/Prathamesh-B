@@ -1,3 +1,5 @@
+<div align="center">
+
 [![header](./svg/header.svg)](https://prathamesh-b.github.io/)
 
 <p align="center">
@@ -10,7 +12,7 @@
 
 [![hr](./svg/hr.svg)](#skills)
 
-## 👨‍💻Skills:
+## 👨‍💻 Skills 👨‍💻
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
    [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
@@ -23,10 +25,10 @@
    [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
    [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
    [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](#)
-
+   [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
 [![hr](./svg/hr.svg)](#tools--technologies)
 
-## 🛠Tools & Technologies:
+## 🛠 Tools & Technologies 🛠
 
 [![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
    [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
@@ -44,17 +46,13 @@
 
 [![hr](./svg/hr.svg)](#-learning)
 
-## 📚 Learning:
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](#)
-   [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+## 📊 Some Stats 📊
 
 
-[![hr](./svg/hr.svg)](#-some-statistics)
+[![Prathamesh's GitHub stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=Prathamesh-B&count_private=true&theme=react&border_radius=10)](#)
+[![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](#)
+[![Prathamesh's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prathamesh-B&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5)](#)
 
-<details><summary><h2>📊 Some Stats</h2></summary>
-
-[![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true&theme=vue-dark)](#)
-<br>
 
 <!--START_SECTION:Chess-->
 **♟️ My Chess.com Stats** 
@@ -68,71 +66,6 @@
 
 <!--END_SECTION:Chess-->
 
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 📦 143.7 kB Used in GitHub's Storage 
- > 
-> 🏆 32 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 10 Public Repositories 
- > 
-> 🔑 9 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-🌆 Daytime                155 commits         ████████████░░░░░░░░░░░░░   46.55 % 
-🌃 Evening                116 commits         █████████░░░░░░░░░░░░░░░░   34.83 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Tuesday                  31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Wednesday                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Thursday                 47 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Friday                   80 commits          ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Saturday                 46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Sunday                   43 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-JavaScript               1 hr 58 mins        ████████████████░░░░░░░░░   62.98 % 
-Markdown                 57 mins             ████████░░░░░░░░░░░░░░░░░   30.64 % 
-Prisma                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C                        2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Prathamesh-B/Prathamesh-B/master/assets/bar_graph.png)
-
-
- Last Updated on 21/01/2024 18:36:38 UTC
-<!--END_SECTION:waka-->
-</details>
 <p align="right"> 
   <strong>Visitor count:</strong><br>
   <a href="#">
@@ -141,3 +74,5 @@ C++                      1 repo              █░░░░░░░░░░�
 </p>
 
 [![footer](./svg/footer.svg)](#)
+
+</div>
