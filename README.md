@@ -41,14 +41,14 @@
 [![Prathamesh's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Prathamesh-B&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5)](#) <br>
 
 <!--START_SECTION:Chess-->
+**♟️ My Chess.com Stats** 
 
-**♟️ My Chess.com Stats**
-
-> ⏲️ Rapid: 897
+> ⏲️ Rapid: 926
 >
 > ⚡ Blitz: 465
 >
 > 💣 Bullet: 937
+>
 
 <!--END_SECTION:Chess-->
 
