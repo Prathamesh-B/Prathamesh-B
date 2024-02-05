@@ -53,6 +53,15 @@
 <br><br>
 
 <!--START_SECTION:Chess-->
+**♟️ My Chess.com Stats** 
+
+> ⏲️ Rapid: 910
+>
+> ⚡ Blitz: 465
+>
+> 💣 Bullet: 937
+>
+
 <!--END_SECTION:Chess-->
 
 <p align="right"> 
