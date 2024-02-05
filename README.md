@@ -24,13 +24,19 @@
 
 ## 👨‍💻 Skills 👨‍💻
 
-[![Skill](https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,flask,django,php)](#)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,flask,django,php">
+  <img alt="github-skills" src="https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,flask,django,php&theme=light">
+</picture>
 
 [![hr](./assets/svg/hr.svg)](#tools--technologies)
 
 ## 🛠 Tools & Technologies 🛠
 
-[![Tools & Technologies](https://skillicons.dev/icons?i=vscode,postgresql,mongodb,googlecloud,aws,mysql,linux,git,nodejs,tailwind,photoshop,docker,arduino)](#)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,postgresql,mongodb,googlecloud,aws,mysql,linux,git,nodejs,tailwind,photoshop,docker,arduino">
+  <img alt="github-tools-tech" src="https://skillicons.dev/icons?i=vscode,postgresql,mongodb,googlecloud,aws,mysql,linux,git,nodejs,tailwind,photoshop,docker,arduino&theme=light">
+</picture>
 
 [![hr](./assets/svg/hr.svg)](#-learning)
 
@@ -51,16 +57,8 @@
   <img alt="github-readme-lang-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-B&langs_count=8&layout=compact&theme=graywhite&border_radius=10&size_weight=0.5&count_weight=0.5">
 </picture>
 <br><br>
+
 <!--START_SECTION:Chess-->
-**♟️ My Chess.com Stats** 
-
-> ⏲️ Rapid: 910
->
-> ⚡ Blitz: 465
->
-> 💣 Bullet: 937
->
-
 <!--END_SECTION:Chess-->
 
 <p align="right"> 
