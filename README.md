@@ -25,7 +25,7 @@
 ## 👨‍💻 Skills 👨‍💻
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,flask,django,php">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,flask,django,php&theme=dark">
   <img alt="github-skills" src="https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,flask,django,php&theme=light">
 </picture>
 
@@ -34,7 +34,7 @@
 ## 🛠 Tools & Technologies 🛠
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,postgresql,mongodb,googlecloud,aws,mysql,linux,git,nodejs,tailwind,photoshop,docker,arduino">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode,postgresql,mongodb,googlecloud,aws,mysql,linux,git,nodejs,tailwind,photoshop,docker,arduino&theme=dark">
   <img alt="github-tools-tech" src="https://skillicons.dev/icons?i=vscode,postgresql,mongodb,googlecloud,aws,mysql,linux,git,nodejs,tailwind,photoshop,docker,arduino&theme=light">
 </picture>
 
