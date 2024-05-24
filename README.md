@@ -52,17 +52,7 @@
 </picture>
 <br><br>
 
-<!--START_SECTION:Chess-->
-**♟️ My Chess.com Stats** 
-
-> ⏲️ Rapid: 910
->
-> ⚡ Blitz: 465
->
-> 💣 Bullet: 937
->
-
-<!--END_SECTION:Chess-->
+[![ChessStats](https://chesscom-profile-svg.vercel.app/stats?username=PrathamRex)](https://github.com/Prathamesh-B/chesscom-profile-svg)
 
 <p align="right"> 
   <strong>Visitor count:</strong><br>
