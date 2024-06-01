@@ -52,7 +52,12 @@
 </picture>
 <br><br>
 
-[![ChessStats](https://chesscom-profile-svg.vercel.app/stats?username=PrathamRex)](https://github.com/Prathamesh-B/chesscom-profile-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=PrathamRex&theme=dark">
+  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=PrathamRex&theme=graywhite">
+</picture>
+
+**These Chess Stats are generated using [chesscom-profile-svg](https://github.com/Prathamesh-B/chesscom-profile-svg)**
 
 <p align="right"> 
   <strong>Visitor count:</strong><br>
