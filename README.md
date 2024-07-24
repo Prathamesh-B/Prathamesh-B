@@ -24,7 +24,7 @@
 
 ## 👨‍💻 Skills 👨‍💻
 
-[![Skill](https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,flask,django,php)](#)
+[![Skill](https://skillicons.dev/icons?i=py,java,c,react,nextjs,javascript,ts,html,css,express,flask,django,php)](#)
 
 [![hr](./assets/svg/hr.svg)](#tools--technologies)
 
