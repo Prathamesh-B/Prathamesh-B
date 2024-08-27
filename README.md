@@ -59,12 +59,11 @@
 
 **These Chess Stats are generated using [chesscom-profile-svg](https://github.com/Prathamesh-B/chesscom-profile-svg)**
 
-<p align="right"> 
-  <strong>Visitor count:</strong><br>
-  <a href="#">
-    <img src="https://profile-counter.glitch.me/Prathamesh-B/count.svg" alt="Visitor" width="170px">
-  </a>
-</p>
+<div align="right"> 
+
+  [![](https://visitcount.itsvg.in/api?id=Prathamesh-B&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
+  
+</div>
 
 [![footer](./assets/svg/footer.svg)](#)
 
