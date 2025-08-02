@@ -53,8 +53,8 @@
 <br><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-profile-svg.vercel.app/stats?username=PrathamRex&theme=dark">
-  <img alt="chess-stats" src="https://chesscom-profile-svg.vercel.app/stats?username=PrathamRex&theme=graywhite">
+  <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-stats-svg.vercel.app/stats?username=PrathamRex&theme=dark">
+  <img alt="chess-stats" src="https://chesscom-stats-svg.vercel.app/stats?username=PrathamRex&theme=graywhite">
 </picture>
 
 **These Chess Stats are generated using [chesscom-profile-svg](https://github.com/Prathamesh-B/chesscom-profile-svg)**
