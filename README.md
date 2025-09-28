@@ -34,24 +34,6 @@
 
 [![hr](./assets/svg/hr.svg)](#-learning)
 
-## 📊 Some Stats 📊
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Prathamesh-B&count_private=true&theme=react&border_radius=10">
-  <img alt="github-streak-stats" src="https://streak-stats.demolab.com/?user=Prathamesh-B&count_private=true&theme=graywhite&border_radius=10">
-</picture>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
-  <img alt="github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=Prathamesh-B&count_private=true&show_icons=true&theme=graywhite&rank_icon=github&border_radius=10" />
-</picture>
-<br><br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-B&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5">
-  <img alt="github-readme-lang-stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-B&langs_count=8&layout=compact&theme=graywhite&border_radius=10&size_weight=0.5&count_weight=0.5">
-</picture>
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://chesscom-stats-svg.vercel.app/stats?username=PrathamRex&theme=dark">
   <img alt="chess-stats" src="https://chesscom-stats-svg.vercel.app/stats?username=PrathamRex&theme=graywhite">
